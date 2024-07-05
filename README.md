@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
-<img align="right" alt="coding" width="400" src=https://media1.giphy.com/media/EeZ6mLsRRik8cgnh3D/giphy.gif?cid=6c09b952druh5y2pxbnkwwq33i4311gw6ltgwozqmzu1lze9&ep=v1_gifs_search&rid=giphy.gif&ct=g> 
+<img align="right" alt="coding" width="400" src=[https://media1.giphy.com/media/EeZ6mLsRRik8cgnh3D/giphy.gif?cid=6c09b952druh5y2pxbnkwwq33i4311gw6ltgwozqmzu1lze9&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://giphy.com/gifs/pamfletim-sahkanruupks-pamfletgenerasi-bobotohpamflet-LmxS3CI4Pqk7aPviYO)> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captansalmankhan3566&label=Profile%20views&color=0e75b6&style=flat" alt="captansalmankhan3566" /> </p>
 
